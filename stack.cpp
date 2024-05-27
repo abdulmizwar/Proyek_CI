@@ -33,7 +33,7 @@ void TampilData(){
     if (!isEmpty())
     {
 
-        cout<"Data Tersimpan semua "<<endl;
+        cout<<"Data Tersimpan semua "<<endl;
         for (int i = 0; i < top; i++)
         {
             cout<< i + 1<<". "<<dataBuku[i]<<endl;
